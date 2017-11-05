@@ -50,7 +50,7 @@ msgstr "Seleccionar Imagen"
 
 #: ../src/MainWindow.vala:245
 msgid "Select Drive"
-msgstr "Select Dispositivo"
+msgstr "Seleccionar Dispositivo"
 
 #: ../src/MainWindow.vala:253 ../src/MainWindow.vala:374
 msgid "No removable devices found…"
